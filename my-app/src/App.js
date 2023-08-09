@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React Railway Application
+          React Railway Application(Front end UI)
         </a>
       </header>
     </div>
